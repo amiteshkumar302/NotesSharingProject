@@ -1,0 +1,40 @@
+.nav link{color : Black}
+
+.nav-link:hover{
+color : yellow;
+font-weight : bold;
+background-color : red;
+border-radius :10px}
+
+
+.transparentbox p{
+ margin-top:10px;
+ font-weight:bold;
+ font-size:60px;
+ font-family:'Monotype Corosiva'
+ color:DarkRed;
+ text-align:center;
+ }
+
+.halfcircle{
+height:75px;
+width:150px;
+border-radius:90px 90px 0px 0px;
+margin:0px;
+background-color:green;
+}
+.halfcircleBottom{
+height:75px;
+width:150px;
+border-radius:0px 0px 90px 90px;
+margin:0px;
+background-color:darkgrey;
+}
+.box1 p{
+font-weight:bold;
+color:white;
+font-family:'Monotype corsiva';
+text-align:center;
+
+}
+
